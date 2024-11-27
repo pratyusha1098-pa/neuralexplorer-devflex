@@ -1,0 +1,24 @@
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+ 
+FAILED (errors=1)
+test_get (ph2_unit_test.FlaskAppTestCase.test_get) ... ok
+test_get_items (ph2_unit_test.FlaskAppTestCase.test_get_items) ... ok
+test_get_time (ph2_unit_test.FlaskAppTestCase.test_get_time) ... ok
+test_greet (ph2_unit_test.FlaskAppTestCase.test_greet) ... ok
+test_index (ph2_unit_test.FlaskAppTestCase.test_index) ... ok
+ 
+----------------------------------------------------------------------
+Ran 5 tests in 0.011s
+ 
+OK
+test_get (ph2_unit_test.FlaskAppTestCase.test_get) ... ok
+test_get_items (ph2_unit_test.FlaskAppTestCase.test_get_items) ... ok
+test_get_time (ph2_unit_test.FlaskAppTestCase.test_get_time) ... ok
+test_greet (ph2_unit_test.FlaskAppTestCase.test_greet) ... ok
+test_index (ph2_unit_test.FlaskAppTestCase.test_index) ... ok
+ 
+----------------------------------------------------------------------
+Ran 5 tests in 0.011s
+ 
+OK
